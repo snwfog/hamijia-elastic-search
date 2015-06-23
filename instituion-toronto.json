@@ -1,0 +1,3005 @@
+{
+  "features": [
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.613082,
+		  -79.383141
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8197721",
+		"name": "Schulich Executive Education Centre, School of Business, York University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.654529,
+		  -79.388033
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "100910734",
+		"name": "Greystone College of Business & Technology",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.771447,
+		  -79.365436
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2155676",
+		"name": "Canadian College Of Naturopathic Medicine (CCNM)",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.653761,
+		  -79.36923
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "3438979",
+		"name": "Harris Institute For The Arts",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.667113,
+		  -79.389951
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8123092",
+		"name": "St Michael's College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.6636238,
+		  -79.3907139
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6509167",
+		"name": "Regis College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.566907,
+		  -79.597865
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6227592",
+		"name": "Canadian Academy Of Dental Hygiene",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.74703,
+		  -79.28714
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2405315",
+		"name": "Medix College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.6441628,
+		  -79.3663752
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "100822736",
+		"name": "George Brown College - Waterfront Campus",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.603062,
+		  -79.590842
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "100773686",
+		"name": "Emmanuel College Of Business,Healthcare and Technology",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.650866,
+		  -79.370096
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "100672270",
+		"name": "George Brown Toronto City College Redirection Through Education",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.676192,
+		  -79.410136
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8220230",
+		"name": "George Brown College - Casa Loma Campus",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.674026,
+		  -79.410172
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8237262",
+		"name": "Eight Branches Academy of Eastern Medicine",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.715583,
+		  -79.446593
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2405317",
+		"name": "Medix College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.725331,
+		  -79.46443
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6672647",
+		"name": "College Of Osteopathy",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7807729,
+		  -79.4156772
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "660564",
+		"name": "Futureskills High School",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.763093,
+		  -79.411918
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "100285983",
+		"name": "Clinton International Academy",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.653743,
+		  -79.379827
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "4054732",
+		"name": "Herzing College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.774254,
+		  -79.254315
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2583482",
+		"name": "Toronto Institute Of Pharmaceutical Technology",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.668268,
+		  -79.404505
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "3983121",
+		"name": "Travel Training Career Centre Ltd",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.658188,
+		  -79.400044
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "1441649",
+		"name": "Shiatsu School Of Canada Inc",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.77329,
+		  -79.467978
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "5846365",
+		"name": "Canadian All Care College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7244340",
+		"name": "Office Of University Of Events And Community",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.771248,
+		  -79.324448
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7151211",
+		"name": "Pharmaceutical Science College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.65912,
+		  -79.398329
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7138542",
+		"name": "Massey College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.726575,
+		  -79.512777
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7163407",
+		"name": "Victoria University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.657772,
+		  -79.384569
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7213509",
+		"name": "Ontario College Of Trades",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.725736,
+		  -79.380285
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7233494",
+		"name": "Aramarc Glandon College York University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.673952,
+		  -79.388324
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7731070",
+		"name": "Trillium College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.809021,
+		  -79.221268
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "4011330",
+		"name": "CJ Health Care College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.658395,
+		  -79.39761
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8009219",
+		"name": "Braemar College Inc",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7302422,
+		  -79.6019919
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "796506",
+		"name": "Humber",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7150976",
+		"name": "YorkU",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.664755,
+		  -79.395287
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7154151",
+		"name": "Wycliffe College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.715633,
+		  -79.624861
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "3759036",
+		"name": "Institute Of Machine Tool Technology",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.641908,
+		  -79.565808
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6459248",
+		"name": "Institute Of ComplementaryAndAlternativeTherapies Inc.",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.651488,
+		  -79.371665
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "4459358",
+		"name": "Institute Without Boundaries",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.667794,
+		  -79.399958
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7638705",
+		"name": "University of Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.730508,
+		  -79.28971
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7119918",
+		"name": "Centennial College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.777417,
+		  -79.2506468
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8107337",
+		"name": "Global Leadership College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.662034,
+		  -79.3962993
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7226875",
+		"name": "Alumni University of Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.667717,
+		  -79.369363
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7167090",
+		"name": "Centre For Education & Training",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.669462,
+		  -79.406463
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7204344",
+		"name": "University of Toronto - Institute of Child Study",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.773926,
+		  -79.493949
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7224693",
+		"name": "York University Student Loan",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.655133,
+		  -79.386585
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7580257",
+		"name": "College of Respiratory Therapists Of Ontario",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.659681,
+		  -79.396633
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7233116",
+		"name": "Toronto - Registrar's Office - Engineering Undergraduate Program",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7244797",
+		"name": "York University-Centre For The Support Of Teaching",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.737371,
+		  -79.566247
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8215489",
+		"name": "Academy Of Learning",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.657931,
+		  -79.379199
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7230179",
+		"name": "Ryerson Early Learnng Centre",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.758767,
+		  -79.470932
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7173198",
+		"name": "Toronto College Of Dental Hygiene & Auxiliaries",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.772742,
+		  -79.331916
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "1666230",
+		"name": "Victoria International College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.66151,
+		  -79.381378
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7148853",
+		"name": "Jsc World Corporation",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.598764,
+		  -79.514414
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7156784",
+		"name": "Humber College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.736565,
+		  -79.343382
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7112682",
+		"name": "Don Mills Employment Services",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.737797,
+		  -79.434125
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7127307",
+		"name": "Toronto Health School",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.666434,
+		  -79.393226
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7244928",
+		"name": "Unversity of Toronto - Faculty of Law",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7233247",
+		"name": "York University - Stong College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.739833,
+		  -79.613007
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7146010",
+		"name": "Humber College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.79931,
+		  -79.385843
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7124435",
+		"name": "Ontario Bible College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.658909,
+		  -79.394963
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7206012",
+		"name": "University Of Toronto-Department Of Materials Sc",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.757352,
+		  -79.466794
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "3417787",
+		"name": "Progressive Training Centre Inc",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.664908,
+		  -79.39714
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7582901",
+		"name": "Department Of Asian Institute University Of Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.714776,
+		  -79.430142
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2357397",
+		"name": "Kollel Avreichim",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7244881",
+		"name": "York University-Continuing Education",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.663642,
+		  -79.410662
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6952202",
+		"name": "Randolph Academy For The Performing Arts",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.769733,
+		  -79.467192
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7166960",
+		"name": "Ontario International College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.662688,
+		  -79.397867
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7233522",
+		"name": "Political Department - University of Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.748981,
+		  -79.534239
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7243936",
+		"name": "City College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.795669,
+		  -79.419473
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7127636",
+		"name": "Canadian Noble Academy",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7331834,
+		  -79.3464736
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7061266",
+		"name": "CIUT FM Radio",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.663663,
+		  -79.386859
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7219323",
+		"name": "Training Colleges & Universities (Ministry Of)",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.663642,
+		  -79.410662
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "1304492",
+		"name": "Randolph Academy For The Performing Arts",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.656698,
+		  -79.452522
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "5884405",
+		"name": "Kikkawa College & Teaching Clinic",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.667634,
+		  -79.399328
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7140917",
+		"name": "University of Toronto Woodsworth College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7370372,
+		  -79.4357447
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7899186",
+		"name": "Canadian International Carrer College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.803184,
+		  -79.288657
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7830023",
+		"name": "JRS College Of Business And Health Care Inc",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7743755,
+		  -79.241759
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6609364",
+		"name": "Beta College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.756882,
+		  -79.288683
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6769345",
+		"name": "Bond International College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.753203,
+		  -79.358566
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "3987703",
+		"name": "Citi College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.700207,
+		  -79.397038
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "1089875",
+		"name": "Mothercraft Institute For Early Development",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.806027,
+		  -79.275824
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7522399",
+		"name": "Ontario International College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7371624,
+		  -79.4348791
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "3454591",
+		"name": "Canadian International Health",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.791849,
+		  -79.248462
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8216599",
+		"name": "Canadian College Of Business Science And Technol ogies",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.771248,
+		  -79.324448
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6578194",
+		"name": "Yeetech Technology Inc",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.782193,
+		  -79.5622
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6527865",
+		"name": "Electrical College Of Canada",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.688357,
+		  -79.392938
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7962764",
+		"name": "College of Midwives of Ontario",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.67335,
+		  -79.388075
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "3035038",
+		"name": "Adler Learning Consortium Inc",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.795443,
+		  -79.261207
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7173044",
+		"name": "Progressive Training Centre Inc",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.647558,
+		  -79.398216
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "3454596",
+		"name": "Canpacific College Of Bus",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.648777,
+		  -79.377687
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7160411",
+		"name": "Evergreen College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.656698,
+		  -79.452522
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "3770146",
+		"name": "Trebas Institute",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.653081,
+		  -79.3909
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "1168239",
+		"name": "Ontario College Of Art & Design",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.656337,
+		  -79.487365
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2769364",
+		"name": "Foundation For Montessori Education",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.667018,
+		  -79.402349
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7139757",
+		"name": "Tartu College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.6653547,
+		  -79.3989386
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7227196",
+		"name": "University of Toronto PHD at Rotman",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.649536,
+		  -79.388751
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2375442",
+		"name": "Liaison College Downtown",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.655406,
+		  -79.412992
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "100495273",
+		"name": "College Street Bar",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.661416,
+		  -79.382907
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7579156",
+		"name": "Ewings Canada Academy Of Business And Technology",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.715393,
+		  -79.447588
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7138002",
+		"name": "Criminal Record",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7606718",
+		"name": "Schulich Executive Education Centre-York University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7380228,
+		  -79.2180936
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6432638",
+		"name": "Fatima Institute",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.725736,
+		  -79.380285
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7206031",
+		"name": "York University-Political Science",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.795251,
+		  -79.432728
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7575849",
+		"name": "Steeles College Memorial Chapel",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.658437,
+		  -79.397394
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "620568",
+		"name": "The Fields Institute For Research In Mathematical Sciences",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7232697",
+		"name": "York University - Science and Engineering Library Steacie",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.664719,
+		  -79.395492
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7205924",
+		"name": "University Of Trinity College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7561176",
+		"name": "Department of Canadian Research Of York University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.667329,
+		  -79.393192
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7581334",
+		"name": "Victoria University Alumni Afairs",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.663439,
+		  -79.400315
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7140169",
+		"name": "Hillel of Greater Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.763618,
+		  -79.401509
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7757126",
+		"name": "Ciyi Wellness Management Inc",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.679472,
+		  -79.345076
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6062373",
+		"name": "Academy Of Learning Career And Business College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.580371,
+		  -79.616737
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "263184",
+		"name": "CRD College Of Health Care",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.658815,
+		  -79.39541
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2407987",
+		"name": "Metro College Of Technology",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.72057,
+		  -79.423663
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2568886",
+		"name": "Talpiot College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.783415,
+		  -79.287791
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2627476",
+		"name": "York College Of Business & Technology",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.771851,
+		  -79.397042
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7857818",
+		"name": "School Of Music Canada",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.66144,
+		  -79.400845
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7232873",
+		"name": "University of Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.580883,
+		  -79.617181
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "3744291",
+		"name": "Algonquin Careers Academy",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7232640",
+		"name": "York University - University Infomation Technology",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.6620472,
+		  -79.3977072
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7601991",
+		"name": "Toronto - Women & Gender Studies",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.669293,
+		  -79.391432
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7655308",
+		"name": "Ontario College of Teachers",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.652578,
+		  -79.371468
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7143609",
+		"name": "Woodsworth College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.690291,
+		  -79.498477
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2557696",
+		"name": "The Student Life Education Company Inc",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.696351,
+		  -79.463162
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8219571",
+		"name": "Bonnie Gordon College of Confectionary Arts",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.759753,
+		  -79.357814
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "100232088",
+		"name": "Brooklyn College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7144862",
+		"name": "YorkU",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.6591632,
+		  -79.3941492
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7205925",
+		"name": "University Of Toronto Department Of Computer Sci",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.665,
+		  -79.401015
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7247916",
+		"name": "Office of Life University of Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.725736,
+		  -79.380285
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7244760",
+		"name": "York University-Department Of Psychology",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.784287,
+		  -79.231787
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6855572",
+		"name": "Centennial College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.666531,
+		  -79.404465
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7134057",
+		"name": "Prep101 Inc",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.6588712,
+		  -79.3820217
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7136827",
+		"name": "Residences Of College Park II LP",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.725736,
+		  -79.380285
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7594678",
+		"name": "Department of Hispanic Studies Glendon College York University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.666369,
+		  -79.399531
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7575473",
+		"name": "Ernst Cliff Foundation",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.6656157,
+		  -79.3877956
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7228997",
+		"name": "University Of Toronto Dept Of Germanic Languages And Literatures",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7224827",
+		"name": "York University Vanier College Master's Office",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7591358",
+		"name": "International MBA Program Schulich School of Business",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.648359,
+		  -79.375492
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7161989",
+		"name": "National Institute For Genealogical Studies",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.716496,
+		  -79.429133
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "209032",
+		"name": "Bnos Bais Yaakov",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7582407",
+		"name": "Centre Of Jewish Study In York University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.656096,
+		  -79.383868
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "4490699",
+		"name": "University Of Waterloo At Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.6623048,
+		  -79.3957736
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7245082",
+		"name": "The Alumni Development Office of University of Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.774254,
+		  -79.254315
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8110020",
+		"name": "Pures College Of Technology",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.65982,
+		  -79.396689
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7244511",
+		"name": "Faculity of Applied Science and Engineering-University of Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.657838,
+		  -79.380171
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7228002",
+		"name": "Ryerson University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.725887,
+		  -79.349631
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "3012313",
+		"name": "AOL North York Campus",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.71486,
+		  -79.244155
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2492418",
+		"name": "Redemptoris Mater Seminar",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7234742",
+		"name": "York University - Data Integrity",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.663413,
+		  -79.371898
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6528784",
+		"name": "Robert Van Der Meulen",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7581641",
+		"name": "York University French Studies",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.706343,
+		  -79.514227
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7142941",
+		"name": "Wilfrid Laurier Univ",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.665,
+		  -79.401015
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7243912",
+		"name": "Gender Diverse Office At University Of Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.666427,
+		  -79.404984
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "100383081",
+		"name": "DEVELOP Language Institute",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.77952,
+		  -79.308408
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "29178",
+		"name": "Academy of Learning",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.784392,
+		  -79.231824
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2167392",
+		"name": "Centennial College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.660155,
+		  -79.398369
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7244320",
+		"name": "University of Toronto - Department of Anthropolgy",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.658749,
+		  -79.434916
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7187555",
+		"name": "Aced International Education Group Ltd",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.642465,
+		  -79.374991
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8073251",
+		"name": "Coll\u00e8ge Bor\u00e9al",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.642557,
+		  -79.426952
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8006887",
+		"name": "Paramita Academy of Makeup Inc",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.751211,
+		  -79.355447
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2310882",
+		"name": "Hawthorn School For Girls",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.725736,
+		  -79.380285
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7609818",
+		"name": "Editions du GREF of Glendon College of York University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.669001,
+		  -79.392774
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "290088",
+		"name": "Canadian College Of Business And Computers",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.650254,
+		  -79.38094
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "3622251",
+		"name": "Canadian Centre For Verbatim Studies",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.656825,
+		  -79.378539
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7593372",
+		"name": "Ryerson University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.753203,
+		  -79.358566
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7162519",
+		"name": "Citi College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.661681,
+		  -79.399509
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7231756",
+		"name": "Department of Ecology & Evolutionary Biology of University of Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.80595,
+		  -79.337184
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7160488",
+		"name": "Toronto International College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.665307,
+		  -79.399486
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7206142",
+		"name": "University Of Toronto-Innis College Registrar",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.762105,
+		  -79.359662
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7719371",
+		"name": "Royal Canadian College Of Massage Therapy",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.688605,
+		  -79.391794
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "5889391",
+		"name": "IBT College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.786609,
+		  -79.193642
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "4138446",
+		"name": "Follett Centennialcollege",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.653081,
+		  -79.3909
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7045436",
+		"name": "OCAD University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.708766,
+		  -79.362875
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7169709",
+		"name": "Robotech Institute",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.639841,
+		  -79.381115
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7151138",
+		"name": "Directcash Atm Processing",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.72837,
+		  -79.255502
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "214831",
+		"name": "Bond College Of Business",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.667018,
+		  -79.402349
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7160678",
+		"name": "Tartu College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.661507,
+		  -79.400497
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7204105",
+		"name": "University of Toronto New College Residences",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.649528,
+		  -79.382372
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7174182",
+		"name": "X P V Capital Corporation",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.63913,
+		  -79.625564
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7605879",
+		"name": "BizTech Institute",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.787761,
+		  -79.267642
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8233078",
+		"name": "Trios Corp London Campus",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.6647238,
+		  -79.3910891
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "5967670",
+		"name": "Nalanda College Of Buddhist Studies",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.731764,
+		  -79.269944
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7957753",
+		"name": "Computek College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.80595,
+		  -79.337184
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7085463",
+		"name": "Toronto Institute Of Technology",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.7739878,
+		  -79.4938074
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "5943838",
+		"name": "York University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.647939,
+		  -79.389784
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6870738",
+		"name": "Biz Launch",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.659718,
+		  -79.379118
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "100057112",
+		"name": "Ryerson University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.6591632,
+		  -79.3941492
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7243437",
+		"name": "Engineering And Computer Science Library Of UofT",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.6599267,
+		  -79.382412
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7152241",
+		"name": "Ryerson University",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.71875,
+		  -79.429492
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8170299",
+		"name": "Yeshivas Lubavitch Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.666955,
+		  -79.385446
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "8073002",
+		"name": "Royal Cnd Institute",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.779851,
+		  -79.308425
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7085859",
+		"name": "Canadian College Of Humanitarian Medicine",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.732354,
+		  -79.267231
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "100423065",
+		"name": "Everest College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.672385,
+		  -79.376703
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6632932",
+		"name": "triOS College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.764949,
+		  -79.411866
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "100563025",
+		"name": "CDI College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.724914,
+		  -79.340032
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7231737",
+		"name": "Canada Pacific College Of Technology",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.648052,
+		  -79.394859
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "2556875",
+		"name": "Strategy Institute",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.776807,
+		  -79.328521
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "4225229",
+		"name": "Michener Institute For Applied Health Sciences",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.704793,
+		  -79.477181
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "6208419",
+		"name": "Leonardo College Of Design",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.784392,
+		  -79.231824
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7146589",
+		"name": "Centennial College",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	},
+	{
+	  "geometry": {
+		"coordinates": [
+		  43.660538,
+		  -79.388013
+		],
+		"type": "Point"
+	  },
+	  "properties": {
+		"id": "7162384",
+		"name": "University Of Toronto",
+		"pinIndex": -1
+	  },
+	  "type": "Feature"
+	}
+  ],
+  "type": "FeatureCollection"
+}
