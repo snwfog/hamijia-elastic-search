@@ -37,6 +37,9 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
+    algoliasearch (1.5.0)
+      httpclient (~> 2.4)
+      json (>= 1.5.1)
     awesome_print (1.6.1)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
@@ -59,6 +62,7 @@ GEM
       mime-types (~> 1.15)
       posix-spawn (~> 0.3.6)
     hirb (0.7.3)
+    httpclient (2.6.0.1)
     i18n (0.7.0)
     json (1.8.3)
     loofah (2.0.2)
@@ -123,6 +127,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  algoliasearch
   colorize
   jazz_hands!
   pry-byebug
